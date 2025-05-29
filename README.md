@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15546758.svg)](https://doi.org/10.5281/zenodo.15546758)
+
 ## New Worlds Reading AR Expeditions - Game Overview
 
 **Authors:**  
